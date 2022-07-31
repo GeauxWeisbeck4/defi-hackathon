@@ -11,6 +11,7 @@ export { default as Button } from './buttons/Button.astro';
 
 // Cards
 export { default as FeatureCard } from './cards/FeatureCard.astro';
+export { default as EventCard } from './cards/EventCard.astro';
 
 // Sections
 export { default as TextSection } from './sections/TextSection.astro';

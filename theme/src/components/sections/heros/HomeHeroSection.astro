@@ -7,30 +7,22 @@ import ThemeSwitcher from '../../theme-switcher/ThemeSwitcher.astro';
 <Container>
 	<section class="hero-section__section">
 		<div class="hero-section__text">
-				<h1>Welcome to Odyssey</h1>
-				<p>
-					A marketing website theme built with <a
-						href="https://astro.build"
-						target="_blank"
-						rel="noreferrer">Astro</a
-					> and carefully crafted for startups and businesses.
-				</p>
-				<div class="hero-btns__container">
-					<Button href="/theme/get-started" materialIcon="chevron_right"
-						>Get Started</Button
-					>
-					<Button href="/theme/style-guide" unelevated>Style Guide</Button>
-				</div>
-        {settings.enableThemeSwitcher && <ThemeSwitcher />}
+			<h1>Come build diverse solutions with a global community.</h1>
+			<p>
+				Paleo hella biodiesel tumeric DSA, green juice literally keytar slow-carb williamsburg selfies
+				stumptown.
+			</p>
+			<div class="hero-btns__container">
+				<Button href="/resources/get-started" materialIcon="chevron_right">Join Us</Button>
+				<Button href="/resources/style-guide" unelevated>Learn More</Button>
+			</div>
+			{settings.enableThemeSwitcher &&
+			<ThemeSwitcher />}
 		</div>
 		<div class="hero-section__image">
-				<picture>
-					<img
-						src="/assets/images/home/classic-hero.jpg"
-						alt="Astro Odyssey"
-						id="home-hero-image"
-					/>
-				</picture>
+			<picture>
+				<img src="/assets/images/home/classic-hero.jpg" alt="Astro Odyssey" id="home-hero-image" />
+			</picture>
 		</div>
 	</section>
 </Container>
@@ -44,21 +36,26 @@ import ThemeSwitcher from '../../theme-switcher/ThemeSwitcher.astro';
 		align-items: center;
 		gap: 1rem;
 	}
+
 	.hero-section__text {
 		justify-self: center;
 		max-width: 25rem;
 	}
+
 	.hero-btns__container {
 		display: flex;
 		align-items: center;
 		gap: 1rem;
 	}
+
 	.hero-btns__container {
 		margin-right: 1rem;
 	}
+
 	.hero-section__image {
 		display: flex;
 	}
+
 	.hero-section__image img {
 		width: 100%;
 		height: 100%;
@@ -66,6 +63,7 @@ import ThemeSwitcher from '../../theme-switcher/ThemeSwitcher.astro';
 		object-fit: cover;
 		border-radius: var(--theme-shape-radius);
 	}
+
 	@media (max-width: 768px) {
 		.hero-section__section {
 			grid-template-columns: 1fr;

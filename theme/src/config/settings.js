@@ -1,7 +1,7 @@
 export default {
-	title: `Odyssey Astro Theme | A Marketing Website Theme for Startups and Businesses`,
-	description: `A simple, clean, and modern theme for a startup or businesses' marketing website.`,
-	url: `https://odyssey-theme.littlesticks.dev`, // No trailing slash!
-	name: `Odyssey`, // The short name of the business or brand name. Used for things like the copyright in the footer.
+	title: `DeFi Ours | Diverse Solutions for Underrepresented Groups`,
+	description: `Economic empowerment through technology education, and community.`,
+	url: `https://defiours.com`, // No trailing slash!
+	name: `DeFi Ours`, // The short name of the business or brand name. Used for things like the copyright in the footer.
   enableThemeSwitcher: true,
 };

@@ -1,5 +1,5 @@
 {
-  "name": "odyssey-components",
+  "name": "defi-hackathon",
   "version": "0.0.1",
   "private": false,
   "scripts": {
@@ -8,6 +8,7 @@
     "serve": "astro --root demo preview"
   },
   "devDependencies": {
+    "@odyssey-theme/components": "^0.1.66",
     "astro": "^1.0.0-beta.17"
   }
 }

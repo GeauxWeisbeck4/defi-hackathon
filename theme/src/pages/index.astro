@@ -6,80 +6,51 @@ import HomeHeroSection from '../components/sections/heros/HomeHeroSection.astro'
 
 <Layout>
 	<HomeHeroSection />
-	<Container>
+	<Container>         
 		<section class="feature-card__section">
-			<h2>Landing Pages</h2>
+			<h2>Upcoming Events</h2>
 			<p>
-				Use one of our preconfigured landing pages to jumpstart your website or
-				ad campaign.
+				Facilitating community involvment through education, events, and mentorship in the blockchain space.
+				Guided by DefiOurs mission of economic empowerment through technology, practitioners will be
+				empowered to bring diverse projects to the market.
 			</p>
 			<div class="feature-card__grid">
-				<FeatureCard
-					href="/landing-pages/landing-1"
-					imgSrc="/assets/images/home/screenshots/landing-1.png"
-					title="Landing Page 1"
-				/>
-				<FeatureCard
-					href="/landing-pages/landing-2"
-					imgSrc="/assets/images/home/screenshots/landing-2.png"
-					title="Landing Page 2"
-				/>
+				<FeatureCard href="/upcoming-events/info/event-1" imgSrc="/assets/images/home/screenshots/landing-1.png"
+					title="Event 1" />
+				<FeatureCard href="/upcoming-events/info/event-2" imgSrc="/assets/images/home/screenshots/landing-2.png"
+					title="Event 2" />
 			</div>
 		</section>
 	</Container>
 
 	<Container>
 		<section class="feature-card__section">
-			<h2>Company Pages</h2>
+			<h2>NFT Tickets</h2>
 			<p>
-				Use one of our prebuilt company pages for your about page, contact page,
-				legal pages, blog posts, etc.
+				Get an NFT ticket to register for an upcoming DefiOurs event!
 			</p>
 			<div class="feature-card__grid">
-				<FeatureCard
-					href="/company/about"
-					imgSrc="/assets/images/home/screenshots/about.png"
-					title="About Page"
-				/>
-				<FeatureCard
-					href="/company/contact"
-					imgSrc="/assets/images/home/screenshots/contact.png"
-					title="Contact Page"
-				/>
-				<FeatureCard
-					href="/blog/"
-					imgSrc="/assets/images/home/screenshots/blog.png"
-					title="Blog Page"
-				/>
-				<FeatureCard
-					href="/blog/posts/remote-work-mental-health"
-					imgSrc="/assets/images/home/screenshots/blog-post.png"
-					title="Blog Post"
-				/>
-				<FeatureCard
-					href="/company/legal"
-					imgSrc="/assets/images/home/screenshots/legal.png"
-					title="Legal Page"
-				/>
+				<FeatureCard href="/company/about" imgSrc="/assets/images/home/screenshots/about.png"
+					title="About Page" />
+				<FeatureCard href="/company/contact" imgSrc="/assets/images/home/screenshots/contact.png"
+					title="Contact Page" />
+				<FeatureCard href="/news/" imgSrc="/assets/images/home/screenshots/blog.png" title="News Page" />
+				<FeatureCard href="/news/posts/remote-work-mental-health"
+					imgSrc="/assets/images/home/screenshots/blog-post.png" title="News page" />
+				<FeatureCard href="/company/legal" imgSrc="/assets/images/home/screenshots/legal.png"
+					title="Legal Page" />
 			</div>
 		</section>
 	</Container>
 
 	<Container>
 		<section class="feature-card__section">
-			<h2>Theme Pages</h2>
-			<p>Learn more about how to set up and use the Odyssey Theme.</p>
+			<h2>News</h2>
+			<p>Get the latest news and updates here on our blog.</p>
 			<div class="feature-card__grid">
-				<FeatureCard
-					href="/theme/get-started"
-					imgSrc="/assets/images/home/screenshots/get-started.png"
-					title="Get Started"
-				/>
-				<FeatureCard
-					href="/theme/style-guide"
-					imgSrc="/assets/images/home/screenshots/style-guide.png"
-					title="Style Guide"
-				/>
+				<FeatureCard href="/theme/get-started" imgSrc="/assets/images/home/screenshots/get-started.png" title="Get Started" />
+				<FeatureCard href="/theme/style-guide" imgSrc="/assets/images/home/screenshots/style-guide.png"
+					title="Style Guide" />
 			</div>
 		</section>
 	</Container>
@@ -89,11 +60,13 @@ import HomeHeroSection from '../components/sections/heros/HomeHeroSection.astro'
 	.feature-card__section {
 		margin: var(--section-margin) auto;
 	}
+
 	.feature-card__grid {
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
 		gap: var(--theme-grid-gap);
 	}
+
 	@media (max-width: 768px) {
 		.feature-card__grid {
 			grid-template-columns: 1fr;

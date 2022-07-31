@@ -22,15 +22,15 @@ export const footerSocials = [
 
 export const footerLists = [
 	{
-		title: 'Landing Pages',
+		title: 'Upcoming Events',
 		items: [
 			{
-				title: 'Landing Page 1',
-				slug: '/landing-pages/landing-1',
+				title: 'Event 1',
+				slug: '/upcoming-events/info/event-1',
 			},
 			{
-				title: 'Landing Page 2',
-				slug: '/landing-pages/landing-2',
+				title: 'Event 2',
+				slug: '/upcoming-events/info/event-2',
 			},
 		],
 	},
@@ -42,8 +42,8 @@ export const footerLists = [
 				slug: '/company/about',
 			},
 			{
-				title: 'Blog',
-				slug: '/blog',
+				title: 'News',
+				slug: '/news',
 			},
 			{
 				title: 'Contact',
@@ -52,7 +52,7 @@ export const footerLists = [
 		],
 	},
 	{
-		title: 'Theme',
+		title: 'Resources',
 		items: [
 			{
 				title: 'Get Started',
