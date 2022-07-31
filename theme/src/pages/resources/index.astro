@@ -1,0 +1,68 @@
+---
+import {
+	Container,
+	TextCardSection,
+    Button,
+} from '@odyssey-theme/components';
+import Layout from '../../layouts/Page.astro';
+
+const seo = {
+	title: 'Resources | DeFiOurs',
+	description: 'DeFiOurs Resources and Documentation',
+};
+---
+
+<Layout {seo}>
+	<Container class="event-card">
+		<TextCardSection>
+			<h1>Resources</h1>
+			<p>
+				Find all developer, creator, and entrepreneurial tools here!
+			</p>
+			<div class="hero-btns__container">
+				<Button href="docs/src/pages/en/introduction" materialIcon="chevron_right">Get Started</Button>
+				<Button href="docs/src/pages/components/index" unelevated>Explore Resources</Button>
+			</div>
+		</TextCardSection>
+    </Container>
+    <Container>
+		<section>
+			<h2>Developer Resources</h2>
+			<p>You can find developer resources here.</p>
+		</section>
+        <section>
+			<h2>Coming Soon</h2>
+			<p>This page will be update with a lot of resources soon.</p>
+		</section>
+	</Container>
+</Layout>
+
+<style>
+
+
+<style>
+    .event-card {
+        display: flex;
+        
+        align-items: center;
+        justify-content: center;
+    }
+	.upcoming-events-list__section {
+		margin: var(--section-margin) auto;
+	}
+
+    .main-event__card {
+        margin: 0 auto 1rem auto;
+        border-radius: var(--theme-shape-radius);
+    }
+
+    .hero-btns__container {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+	}
+
+	.hero-btns__container {
+		margin-right: 1rem;
+	}
+</style>

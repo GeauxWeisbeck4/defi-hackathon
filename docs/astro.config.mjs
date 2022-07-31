@@ -6,7 +6,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://odyssey-theme-docs.littlesticks.dev/',
+  site: 'https://defiours.com',
   integrations: [
   // Enable Preact to support Preact JSX components.
   preact(), 

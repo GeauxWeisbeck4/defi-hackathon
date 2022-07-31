@@ -1,0 +1,29 @@
+---
+import EventPreview from './EventPreview.astro';
+
+const {events} = Astro.props;
+---
+
+<ul class="event-posts-list__list">
+  {events?.map((event) => {
+    return (
+      <EventPreview event={event} />
+    )
+  })}
+</ul>
+
+<style>
+.event-posts-list__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+@media (max-width: 768px) {
+  .event-posts-list__list {
+    grid-template-columns: 1fr;
+  }
+}
+</style>

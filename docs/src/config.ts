@@ -1,17 +1,17 @@
 export const SITE = {
-	title: 'Odyssey Theme Documentation',
-	description: 'This is the official documentation for the Odyssey Theme.',
+	title: 'DeFiOurs Documentation',
+	description: 'This is the official documentation for DeFiOurs website',
 	defaultLanguage: 'en_US',
 };
 
 export const OPEN_GRAPH = {
 	image: {
-		src: 'https://github.com/withastro/astro/blob/main/assets/social/banner.jpg?raw=true',
+		src: 'https://github.com/GeauxWeisbeck4/defi-hackathon',
 		alt:
 			'astro logo on a starry expanse of space,' +
 			' with a purple saturn-like planet floating in the right foreground',
 	},
-	twitter: 'littlesticksdev',
+	twitter: 'defiours',
 };
 
 export const KNOWN_LANGUAGES = {
@@ -19,7 +19,7 @@ export const KNOWN_LANGUAGES = {
 };
 
 // Uncomment this to add an "Edit this page" button to every page of documentation.
-// export const GITHUB_EDIT_URL = `https://github.com/withastro/astro/blob/main/docs/`;
+export const GITHUB_EDIT_URL = `https://github.com/GeauxWeisbeck4/defi-hackathon/tree/master/docs`;
 
 // Uncomment this to add an "Join our Community" button to every page of documentation.
 // export const COMMUNITY_INVITE_URL = `https://astro.build/chat`;
