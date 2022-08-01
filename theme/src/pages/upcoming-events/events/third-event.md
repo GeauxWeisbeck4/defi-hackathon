@@ -10,7 +10,7 @@ tags: ['Underground Legend']
 
 You may not have heard of these Underground Legendz. Come join us for the best beats you ain't heard of. 
 
-![Sick Dance](/assets/images/coolvid.gif)
+![Sick Dance](/assets/images/underground.gif)
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit. excepturi  velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit           velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit.
 
