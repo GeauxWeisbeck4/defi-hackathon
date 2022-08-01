@@ -1,10 +1,10 @@
 ---
 layout: '../../../layouts/Post.astro'
 title: Welcome to DeFiOurs
-description: Welcome to DeFiOurs, where Web 3 meets diversity
-publishDate: July 28, 2022
+description: Welcome to our website
+publishDate: July 30, 2022
 featuredImage: '/assets/images/blog/welcome-defiours/defiours.png'
-excerpt: 'Welcome to DeFiOurs."
+excerpt: 'Welcome to the DeFiOurs website'
 tags: ['DeFiOurs']
 ---
 

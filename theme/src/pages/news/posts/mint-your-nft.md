@@ -1,12 +1,12 @@
 ---
 layout: '../../../layouts/Post.astro'
-setup: | 
-import {YouTubeEmbed} from '@odyssey-theme/components'
-title: How to Mint an NFT
-description: Read this post to learn how to mint an NFT
-publishDate: July 4, 2022
-featuredImage: '/assets/images/blog/remote-work-mental-health/mint-your-nft.png'
-excerpt: 'This post tells you exactly how you can mint your NFT on our minting app'
+setup: |
+  import {YouTubeEmbed} from '@odyssey-theme/components'
+title: Mint Your NFT
+description: Mint your NFT on the Avalanche blockchain
+publishDate: July 30, 2022
+featuredImage: '/assets/images/blog/mint-your-nft/mintnft.png'
+excerpt: 'Mint your NFT on the Avalanche blockchain.'
 tags: ['NFT']
 ---
 
