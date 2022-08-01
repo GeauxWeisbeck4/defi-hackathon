@@ -14,7 +14,7 @@ Featuring the first ever Diversity Hackathon by DeFiOurs! Get your laptop and yo
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit. excepturi  velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit           velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit.
 
-## [Sickest Music Video - Top Bangerz](https://www.youtube.com/watch?v=SEG92Z_NGJE)
+## [Sickest Music Video - Top Bangerz](https://www.youtube.com/watch?v=dzrQCsJzr70)
 
 [![Lay Wit Ya Isaiah Rashad ft. Duke Deuce](https://img.youtube.com/vi/dzrQCsJzr70/0.jpg)](https://www.youtube.com/watch?v=dzrQCsJzr70)
 
