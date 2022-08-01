@@ -14,7 +14,7 @@ export const footerSocials = [{
         icon: twitterIcon,
     },
     {
-        url: 'https://github.com/littlesticksdev/odyssey-theme',
+        url: 'https://github.com/defiours',
         icon: githubIcon,
     },
 ]
@@ -22,12 +22,16 @@ export const footerSocials = [{
 export const footerLists = [{
         title: 'Upcoming Events',
         items: [{
-                title: 'First Even',
-                slug: '/upcoming-events/info/event-1',
+                title: 'First Event',
+                slug: '/upcoming-events/events/first-event',
             },
             {
-                title: 'Event 2',
-                slug: '/upcoming-events/info/event-2',
+                title: 'Second Event',
+                slug: '/upcoming-events/events/second-event',
+            },
+            {
+                title: 'Third Event',
+                slug: '/upcoming-events/events/third-event',
             },
         ],
     },
@@ -36,6 +40,10 @@ export const footerLists = [{
         items: [{
                 title: 'About',
                 slug: '/company/about',
+            },
+            {
+                title: 'Upcoming Events',
+                slug: '/upcoming-events',
             },
             {
                 title: 'News',
@@ -50,8 +58,8 @@ export const footerLists = [{
     {
         title: 'Resources',
         items: [{
-                title: 'Get Started',
-                slug: '/theme/get-started',
+                title: 'Legal',
+                slug: '/company/legal',
             },
             {
                 title: 'Style Guide',
@@ -59,4 +67,4 @@ export const footerLists = [{
             },
         ],
     },
-];
+]
