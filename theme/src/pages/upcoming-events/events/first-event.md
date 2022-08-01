@@ -10,7 +10,7 @@ tags: ['Kick Ass 3D']
 
 When was the last time you thought you saw 3d? Well you ain't seen 3D this sick before. With 3D images from another fuckin universe, your mind will be blown. Come check out the illest 3D art you will find in the metaverse. Check out this 'lorem ipsum' lyric generator:
 
-![3D Event](../../../../public/assets/images/3dheady.gif)
+![3D Event](/assets/images/3dheady.gif)
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit. excepturi  velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit           velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit.
 

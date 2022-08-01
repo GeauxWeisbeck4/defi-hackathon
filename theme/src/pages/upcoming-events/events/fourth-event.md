@@ -10,7 +10,7 @@ tags: ['NFT']
 
 Are you ready for the biggest NFT drop of the year? Join us on August 10th for one big NFT drop. Get Cyberpunks, Bored Apes, Aliens, and your favorite NFT Kitties. Get your tickets today!
 
-![Rap Battle](../../../../public/assets/images/rapbattle.gif)
+![Rap Battle](/assets/images/rapbattle.gif)
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit. excepturi  velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit           velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit.
 

@@ -10,7 +10,7 @@ tags: ['Underground Legendz']
 
 Featuring the first ever Diversity Hackathon by DeFiOurs! Get your laptop and your hacking squad ready for the most important hackathon challenge in the World Wide Wedb. Come up with a solution that makes tech more accessible to underrepresented groups and you could win up to $1,000,000 in prizes. 
 
-![3D Event](../../../../public/assets/images/3dshapez.gif)
+![3D Event](/assets/images/3dshapez.gif)
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit. excepturi  velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit           velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit.
 

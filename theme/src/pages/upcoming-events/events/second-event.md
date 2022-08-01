@@ -10,7 +10,7 @@ tags: ['Meta SEO Art']
 
 Art's finest drop their favorite pieces. There's no bigger art event than the META SEO Art Gallery! Get some lorem ipsum pieces while you can and enjoy this sick art. Here's your promised lorem ipsum:
 
-![Dancin Vid](../../../../public/assets/images/coolvid.gif)
+![Dancin Vid](/assets/images/coolvid.gif)
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit. excepturi  velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit           velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit velit.
 
