@@ -14,7 +14,7 @@
         "format": "npx prettier -w ."
     },
     "devDependencies": {
-        "@astrojs/lit": "^0.1.5",
+        "@astrojs/lit": "^0.3.0",
         "@astrojs/sitemap": "^0.1.0",
         "@odyssey-theme/components": "^0.1.66",
         "@webcomponents/template-shadowroot": "^0.1.0",
